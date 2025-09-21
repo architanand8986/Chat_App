@@ -1,1 +1,1 @@
-export const baseUrl = `https://chatapp-cawj.onrender.com`
+export const baseUrl = `https://chat-app-do7r.onrender.com`
